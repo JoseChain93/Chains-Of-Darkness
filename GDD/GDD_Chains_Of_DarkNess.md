@@ -38,7 +38,7 @@ Han pasado varios años, actualmente el protagonista se encuentra bajo la tutela
 
 - **Exploración**: Mundo semiabierto con ciudades, pueblos, ruinas, bosques, cavernas, zonas infestadas de enemigos,etc.
 - **Combate por Turnos**: Sistema clásico con ataques, habilidades y defensa.  
-- **Misiones**: Misiones basada en encargos, rumores de hogareños, reportes, leyendas o órdenes directas del Vaticano. La historia principal  y secundarias en ocasiones tendrán toma de decisiones, que influirán en el destino de los          personajes, el final y obtener ciertos personajes ocultos.
+- **Misiones**: Misiones basada en encargos, rumores de hogareños, reportes, leyendas o órdenes directas del Vaticano. La historia principal  y secundarias en ocasiones tendrán toma de decisiones, que influirán en el destino de los personajes, apariencias, clases adicionales, el final y obtener ciertos personajes ocultos.
 - **Sistema de Transformaciones (*Inner Darker*) y especialización de clases.**  
 
 ### Acciones Básicas en Combate:
