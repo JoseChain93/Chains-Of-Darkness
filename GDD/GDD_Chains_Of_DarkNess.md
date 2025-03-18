@@ -1,5 +1,5 @@
 
-![Logo de tu juego](Titulo.PNG)
+![Logo de mi juego](Titulo.PNG)
 
 # Índice
 
