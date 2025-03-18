@@ -258,7 +258,7 @@ En cuanto a ambientacíon, intenta abarcar una estética de fantasía oscura mie
 ---
 
 
-## 10.Conclusiom
+## 10.Conclusión
 
 Chains of Darkness es una experiencia RPG inmersiva que combina una narrativa profunda y oscura con un sistema de combate estratégico basado en turnos. A través de su historia cargada de tragedia, venganza y redención, los jugadores explorarán un mundo asediado por fuerzas malignas, enfrentando decisiones que afectarán el destino de los personajes y del propio mundo.
 
